@@ -1,0 +1,2 @@
+# amchero
+Teknik informatika
