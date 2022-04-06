@@ -1,2 +1,3 @@
-# amchero
+# Aldy Rozian
+
 Teknik informatika
